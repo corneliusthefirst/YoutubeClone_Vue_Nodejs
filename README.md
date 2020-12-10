@@ -161,7 +161,3 @@ If you like the UI, I developed it in a seperate repo [VueTube](https://github.c
 ## License
 
 This project is licensed under the MIT License
-
-## Developed by Reagan Ekhameye (Tech Reagan)
-
-Reach me on twitter [@techreagan](https://www.twitter.com/techreagan)
